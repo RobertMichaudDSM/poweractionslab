@@ -27,7 +27,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://dsmdfs-dev.crm4.dynamics.com'
-  CLIENT_ID: '0537714e-5059-48b9-b1a6-524b2df6ed6f'
+  CLIENT_ID: '8e0f4385-dbab-441f-921a-806bade50c29'
   TENANT_ID: '49618402-6ea3-441d-957d-7df8773fee54'
 
 
